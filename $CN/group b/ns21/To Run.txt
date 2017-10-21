@@ -1,0 +1,3 @@
+ns filename.tcl
+
+nam out.nam

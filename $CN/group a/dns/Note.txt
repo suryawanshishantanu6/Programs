@@ -1,0 +1,7 @@
+You can either perform Java Program or Python  program for DNS
+
+
+To run python program:
+
+python filename.py
+
